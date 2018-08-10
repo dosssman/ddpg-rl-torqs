@@ -1,0 +1,6 @@
+tensorflow
+keras
+h5py
+numpy
+psutil
+gym
